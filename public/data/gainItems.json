@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "icon": "linkedin",
+    "title": "Measure your performance",
+    "descr": "Stay connected with your team and make quick decisions wherever you are."
+  },
+  {
+    "id": 2,
+    "icon": "facebook",
+    "title": "Custom analytics",
+    "descr": "Get a complete sales dashboard in the cloud. See activity, revenue and social metrics all in one place."
+  },
+  {
+    "id": 3,
+    "icon": "home",
+    "title": "Team Management",
+    "descr": "Our calendar lets you know what is happening with customer and projects so you"
+  }
+]
